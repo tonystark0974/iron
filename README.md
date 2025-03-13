@@ -1,6 +1,6 @@
 # 派大星的自我介绍 <!-- 一级标题 -->
 
-< img src="https://th.bing.com/th/id/OIP.lKe5OV-K7sh0Hhdm5CkL4wHaHa?rs=1&pid=ImgDetMain" width="200" alt="派大星形象">
+< img src="https://github.com/tonystark0974/iron/blob/master/images/OIP.jpg" width="200" alt="派大星形象">
 
 **大家好，我是派大星**，_我的身份是比奇堡最快乐的海星居民_。以下是我的自我介绍：
 
