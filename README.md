@@ -56,4 +56,4 @@ print(np.array([1, 2, 3]) ** 2)
 
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+<img src="https://github.com/tonystark0974/iron/blob/master/images/a.png" width="800" alt="截图">
