@@ -49,12 +49,5 @@
 ## 我最喜欢的一段代码 <!-- 二级标题  
 ```python
 # dev_skills_env.py
-def patrick_ai():
-    while True:
-        print("🤖 检测到工作信号...")
-        print("⚠️ 系统自动响应：'不——想——动——'")
-        import random
-        if random.choice([True, False]):
-            print("🍔 执行备用方案：呼叫海绵宝宝送蟹黄堡！")
-
-patrick_ai()
+import numpy as np
+print(np.array([1, 2, 3]) ** 2)
