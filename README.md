@@ -51,7 +51,6 @@
 # dev_skills_env.py
 import numpy as np
 print(np.array([1, 2, 3]) ** 2)
-
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我可以在IDE上使用我建立的虚拟环境
