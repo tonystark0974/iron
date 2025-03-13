@@ -1,6 +1,6 @@
 # 派大星的自我介绍 <!-- 一级标题 -->
 
-< img src="https://i.imgur.com/2uQ7WQx.png" width="200" alt="派大星形象">
+< img src="https://th.bing.com/th/id/OIP.lKe5OV-K7sh0Hhdm5CkL4wHaHa?rs=1&pid=ImgDetMain" width="200" alt="派大星形象">
 
 **大家好，我是派大星**，_我的身份是比奇堡最快乐的海星居民_。以下是我的自我介绍：
 
@@ -23,7 +23,7 @@
 ---
 
 ### 重要坐标 <!-- 三级标题  
-🏠 住址：[比奇堡石头屋](https://spongebob.fandom.com/wiki/Patrick's_Rock)  
+🏠 住址：[比奇堡石头屋](https://th.bing.com/th/id/R.6357f8779efd4bc24113c46c22e6e67e?rik=fSOEWgsfFqc%2fNw&riu=http%3a%2f%2fwww.hereinuk.com%2fwp-content%2fuploads%2f2019%2f03%2f0-2965.jpg&ehk=BIcMOoXdB4L8Sv34EdJAlys%2bMeFzRnfG6dVt4OLSuKY%3d&risl=&pid=ImgRaw&r=0)  
 
 ---
 
