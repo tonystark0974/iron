@@ -200,9 +200,6 @@ weighted avg       0.78      0.73      0.72        51
 
 ### README.md 更新内容
 
-在README.md中，添加以下内容说明新增功能：
-
-```markdown
 ## 新增功能
 
 ### 1. 样本平衡处理
