@@ -245,7 +245,7 @@ weighted avg       0.78      0.73      0.72        51
 154.txt分类情况:普通邮件
 155.txt分类情况:垃圾邮件
 ```
-
+<img src="https://github.com/tonystark0974/iron/blob/master/images/a.png" width="800" alt="截图">
 
 
 
