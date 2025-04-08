@@ -174,7 +174,7 @@ print('155.txt分类情况:{}'.format(predict('邮件_files/155.txt')))
    - 将数据划分为训练集和测试集，便于模型评估。
    - 保留了原有的邮件分类功能，确保代码的完整性和可运行性。
 
-### 输出示例
+### 输出结果
 
 #### 分类评估报告
 ```
@@ -225,7 +225,7 @@ print("Classification Report:")
 print(classification_report(y_test, y_pred))
 ```
 
-### 示例输出
+### 结果输出
 
 #### 分类评估报告
 ```
